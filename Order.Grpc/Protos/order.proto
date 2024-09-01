@@ -1,0 +1,35 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Order.Grpc";
+
+package order;
+import "google/protobuf/empty.proto";
+
+
+service OrderQuery{
+   rpc ByOrderID (OrderRequest) returns (OrderResponse);
+   rpc AllOrders (google.protobuf.Empty) returns (ListOrdersResponse);
+}
+
+message OrderRequest{
+   string orderId = 1;
+}
+
+ 
+
+message OrderResponse{
+      string CustomerId = 1;
+	  string CustomerName = 2;
+	  string CustomerMobile = 3;
+	  string CustomerAddress = 4;
+	  string OrderId = 5;
+	  string OrderItems = 6;
+      string OrderDateTime = 7;
+	  string PaymentCode = 8;
+	  string PaymentPrice = 9;
+	  string OrderState = 10;
+}
+
+message ListOrdersResponse{
+	repeated OrderResponse listOrders = 1;
+}

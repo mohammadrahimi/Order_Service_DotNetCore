@@ -1,0 +1,12 @@
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\bin\Debug\net7.0\Framework.RabbitMQ.deps.json
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\bin\Debug\net7.0\Framework.RabbitMQ.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\bin\Debug\net7.0\Framework.RabbitMQ.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\Framework.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\Framework.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\Framework.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\Framework.RabbitMQ.AssemblyInfo.cs
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\Framework.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\Framework.RabbitMQ.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\refint\Framework.RabbitMQ.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\Framework.RabbitMQ.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\obj\Debug\net7.0\ref\Framework.RabbitMQ.dll

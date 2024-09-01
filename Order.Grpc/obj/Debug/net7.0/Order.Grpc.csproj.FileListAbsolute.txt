@@ -1,0 +1,6 @@
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Grpc\obj\Debug\net7.0\Order.Grpc.csproj.AssemblyReference.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Grpc\obj\Debug\net7.0\Order.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Grpc\obj\Debug\net7.0\Order.Grpc.AssemblyInfoInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Grpc\obj\Debug\net7.0\Order.Grpc.AssemblyInfo.cs
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Grpc\obj\Debug\net7.0\Order.Grpc.csproj.CoreCompileInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Grpc\obj\Debug\net7.0\Order.Grpc.MvcApplicationPartsAssemblyInfo.cache

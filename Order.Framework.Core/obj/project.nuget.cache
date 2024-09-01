@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpj/FopYU0+xQXyeoBh/5eoB0uejR3eedeQPkS2bgxLBML9JxKqOKm6AQL9dYply5n2w8WbtAVcB1KoxkVMJbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Framework.Core\\Order.Framework.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahimi\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.3\\microsoft.identitymodel.abstractions.7.6.3.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.3\\microsoft.identitymodel.jsonwebtokens.7.6.3.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.3\\microsoft.identitymodel.logging.7.6.3.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.3\\microsoft.identitymodel.tokens.7.6.3.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.3\\system.identitymodel.tokens.jwt.7.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Mapster" Version="7.4.0" />
+		<PackageReference Include="Dapper" Version="2.1.35" />
+		<PackageReference Include="Mapster.DependencyInjection" Version="1.0.1" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.20" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.20">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Order.Application\Order.Application.csproj" />
+	  <ProjectReference Include="..\Order.Domain.Contract\Order.Domain.Contract.csproj" />
+	  <ProjectReference Include="..\Order.Domain\Order.Domain.csproj" />
+	  <ProjectReference Include="..\Order.Framework.Core\Order.Framework.Core.csproj" />
+	  <ProjectReference Include="..\Order.Persistence.EF\Order.Persistence.EF.csproj" />
+	</ItemGroup>
+
+	
+</Project>

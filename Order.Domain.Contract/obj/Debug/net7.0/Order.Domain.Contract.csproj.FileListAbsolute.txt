@@ -1,0 +1,15 @@
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\bin\Debug\net7.0\Order.Domain.Contract.deps.json
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\bin\Debug\net7.0\Order.Domain.Contract.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\bin\Debug\net7.0\Order.Domain.Contract.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\bin\Debug\net7.0\Order.Framework.Core.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\bin\Debug\net7.0\Order.Framework.Core.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\Order.Domain.Contract.csproj.AssemblyReference.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\Order.Domain.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\Order.Domain.Contract.AssemblyInfoInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\Order.Domain.Contract.AssemblyInfo.cs
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\Order.Domain.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\Order.Domain.Contract.csproj.CopyComplete
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\Order.Domain.Contract.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\refint\Order.Domain.Contract.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\Order.Domain.Contract.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Domain.Contract\obj\Debug\net7.0\ref\Order.Domain.Contract.dll

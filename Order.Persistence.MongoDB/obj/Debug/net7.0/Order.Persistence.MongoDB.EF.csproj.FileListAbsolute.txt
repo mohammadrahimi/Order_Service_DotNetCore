@@ -1,0 +1,12 @@
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\bin\Debug\net7.0\Order.Persistence.MongoDB.EF.deps.json
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\bin\Debug\net7.0\Order.Persistence.MongoDB.EF.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\bin\Debug\net7.0\Order.Persistence.MongoDB.EF.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\Order.Persistence.MongoDB.EF.csproj.AssemblyReference.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\Order.Persistence.MongoDB.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\Order.Persistence.MongoDB.EF.AssemblyInfoInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\Order.Persistence.MongoDB.EF.AssemblyInfo.cs
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\Order.Persistence.MongoDB.EF.csproj.CoreCompileInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\Order.Persistence.MongoDB.EF.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\refint\Order.Persistence.MongoDB.EF.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\Order.Persistence.MongoDB.EF.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Persistence.MongoDB\obj\Debug\net7.0\ref\Order.Persistence.MongoDB.EF.dll

@@ -1,0 +1,12 @@
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\bin\Debug\net7.0\Order.Framework.Core.deps.json
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\bin\Debug\net7.0\Order.Framework.Core.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\bin\Debug\net7.0\Order.Framework.Core.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\Order.Framework.Core.csproj.AssemblyReference.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\Order.Framework.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\Order.Framework.Core.AssemblyInfoInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\Order.Framework.Core.AssemblyInfo.cs
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\Order.Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\Order.Framework.Core.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\refint\Order.Framework.Core.dll
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\Order.Framework.Core.pdb
+C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Order.Framework.Core\obj\Debug\net7.0\ref\Order.Framework.Core.dll
