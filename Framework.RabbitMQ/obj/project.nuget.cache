@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lFsG6PU8xg+b2chhg4yPDXe/1FZg4YRvksz2OC+Rusu56uhymaE4JpmQVBCvMpSpX1bNLbgqnpv23vItz+sSg==",
+  "dgSpecHash": "AQtVS2VUQtgmEZX3vqVk3mHJxTQpBgq65gyKi9MnWNBRkEbbm2Vr2qSSqHyQhMLfiONsKIwKeLxWieUeCjPOqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
+  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahimi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

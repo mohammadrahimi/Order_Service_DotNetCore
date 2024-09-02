@@ -2,7 +2,7 @@
 
 using Order.OutboxPublisher.Dapper;
 using Order.OutboxPublisher.Model;
- 
+
 using MassTransit.Initializers;
 using Newtonsoft.Json;
 using System.Data;
@@ -15,7 +15,7 @@ public class OutBoxManagerPublish
 {
     private readonly IDbConnection _dbConnection;
     private readonly PublishMessage _publishMessage;
-   
+
     public OutBoxManagerPublish(IDbConnection dbConnection, PublishMessage publishMessage)
     {
         _dbConnection = dbConnection;
@@ -33,6 +33,10 @@ public class OutBoxManagerPublish
             foreach (OutBox item in listNotPublishOutbox)
             {
                 await _publishMessage.Publish(item.EventType, item.EventBody);
+                if (item.EventType == "OrderCreatedEvent")
+                {
+                    await _publishMessage.Publish("inventoryOrder", item.EventBody);
+                }
 
             }
             _dbConnection.UpdatePublishedDate(listNotPublishOutbox.Select(x => x.Id));

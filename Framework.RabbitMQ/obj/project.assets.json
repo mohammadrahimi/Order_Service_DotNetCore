@@ -219,11 +219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
+      "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
       "projectName": "Framework.RabbitMQ",
-      "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
+      "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
       "packagesPath": "C:\\Users\\Rahimi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\obj\\",
+      "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

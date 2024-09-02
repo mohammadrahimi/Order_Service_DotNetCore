@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rx58GOaHuW4xOzt4LRO/+9eyUj9g1DYiroP/ipMATywoJtFhCrr0VnkaZYBdtNZ5+x3yGk1l+eH+MeG3JkwxMA==",
+  "dgSpecHash": "UyNVxQ1qjCOrLbUv2RsTQldDdVEsnoaKCjqj6YJ7wwjI3o2Ctqb0jRfvxhqjoQGfcCO2sv1NK3q3CQTra7RvCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj",
+  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahimi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

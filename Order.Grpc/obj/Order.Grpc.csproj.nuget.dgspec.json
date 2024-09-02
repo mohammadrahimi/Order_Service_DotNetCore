@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Grpc\\Order.Grpc.csproj": {}
+    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Grpc\\Order.Grpc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Grpc\\Order.Grpc.csproj": {
+    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Grpc\\Order.Grpc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Grpc\\Order.Grpc.csproj",
+        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Grpc\\Order.Grpc.csproj",
         "projectName": "Order.Grpc",
-        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Grpc\\Order.Grpc.csproj",
+        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Grpc\\Order.Grpc.csproj",
         "packagesPath": "C:\\Users\\Rahimi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Grpc\\obj\\",
+        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Grpc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj": {
-                "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj"
+              "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj": {
+                "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj"
               }
             }
           }
@@ -50,7 +50,7 @@
           "dependencies": {
             "Grpc.AspNetCore": {
               "target": "Package",
-              "version": "[2.59.0, )"
+              "version": "[2.65.0, )"
             }
           },
           "imports": [
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj": {
+    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj",
+        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj",
         "projectName": "Order.Persistence.MongoDB.EF",
-        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj",
+        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj",
         "packagesPath": "C:\\Users\\Rahimi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Persistence.MongoDB.EF\\obj\\",
+        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Persistence.MongoDB.EF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

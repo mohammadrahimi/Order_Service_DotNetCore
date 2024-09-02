@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECRzUEUjvpKBRMDrdYmzyFZCEp/KxHUjsdax26AvarN5uOBLbXh3b6/GWlJZehkMK7UCWOfe+PjHiYTtwyM63Q==",
+  "dgSpecHash": "wS060ot/4hVxRl76k5gCbWSoaXiWHwueI1V5bOkth08OHxQgdvVxb8CkWSAQBtwYKpcGfND8cFntLzCfgU6mdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Persistence.EF\\Order.Persistence.EF.csproj",
+  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Persistence.EF\\Order.Persistence.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahimi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

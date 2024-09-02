@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uG8utOKI7IZhLcyY9zNXOVyTGDP7ptAkP/pkfr0wK0CJtE88Kwq2LbxWYnhm77/zLnh38qezgPH4Odv5zy4/2g==",
+  "dgSpecHash": "E0DOiscueoBZnAWQKxVTTM+ryT2bCQidwvhs2ACsD82PDREA5PCFwgbNtzzFbMWiSvVrzNBLvD9eXd6FQs2aZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj",
+  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Persistence.MongoDB.EF\\Order.Persistence.MongoDB.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahimi\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

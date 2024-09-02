@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Framework.RabbitMQ
-build_property.ProjectDir = C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Order\Framework.RabbitMQ\
+build_property.ProjectDir = C:\Users\Rahimi\Desktop\MicroServiceEShop\Order\Order_Service_DotNetCore\Framework.RabbitMQ\

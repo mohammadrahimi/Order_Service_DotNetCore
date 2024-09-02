@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "56YuEpuc9XKxcHdWQ9VxZpronkHtQyyI1tNHNqxC/ARWZKJsZEMXHPmLeJS5MdF93W2RiOrlZ2mCuVGObDdO5w==",
+  "dgSpecHash": "WIQ9gRQmpqm2W6eIO8egiJdiNU7FLwiZFoaRB2YFmtD8x+/zOlfpM1tz0hQ55zqnPM3/LMBGLlsMmVMZwUK+AA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Consumer.MongoDb\\Order.Consumer.MongoDb.csproj",
+  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Consumer.MongoDb\\Order.Consumer.MongoDb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahimi\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

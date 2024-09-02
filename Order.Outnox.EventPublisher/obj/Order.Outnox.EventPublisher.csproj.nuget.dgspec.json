@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj": {}
+    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj": {
+    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
+        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
         "projectName": "Framework.RabbitMQ",
-        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
+        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj",
         "packagesPath": "C:\\Users\\Rahimi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\obj\\",
+        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj": {
+    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj",
+        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj",
         "projectName": "Order.Outnox.EventPublisher",
-        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj",
+        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Outnox.EventPublisher\\Order.Outnox.EventPublisher.csproj",
         "packagesPath": "C:\\Users\\Rahimi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Order.Outnox.EventPublisher\\obj\\",
+        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order.Outnox.EventPublisher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +105,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj": {
-                "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Order\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj"
+              "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj": {
+                "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\Order\\Order_Service_DotNetCore\\Framework.RabbitMQ\\Framework.RabbitMQ.csproj"
               }
             }
           }
